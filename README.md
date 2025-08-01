@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
+1. Run npm install 
+2. Run dev environtment
 
 ```bash
 npm run dev
@@ -13,6 +15,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+3. Run npx drizzle-kit push 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
